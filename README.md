@@ -1,1 +1,1 @@
-# Webserver-Station-Memory-Plugin-MOD-by-istvn
+# Station Memory Plugin [MOD by istvn]
