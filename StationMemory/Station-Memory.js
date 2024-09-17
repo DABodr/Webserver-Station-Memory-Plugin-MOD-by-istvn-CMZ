@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
         button.style.borderRadius = '10px';
         button.style.boxShadow = '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)';
         button.style.marginBottom = buttonMargin + 'px';
+        button.style.backdropFilter = 'blur(5px)';
         button.style.padding = '0';
         button.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
         button.classList.add('button');
